@@ -1,0 +1,18 @@
+# Módulos y dependencias de Node.js
+/node_modules
+npm-debug.log
+yarn-error.log
+/database
+# Archivos generados durante la construcción
+/build
+/dist
+
+
+# Dependencias y archivos generados por TypeScript
+*.tsbuildinfo
+*.js.map
+
+# Logs y archivos temporales
+*.log
+*.swp
+.DS_Store
